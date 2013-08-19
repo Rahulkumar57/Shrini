@@ -74,12 +74,22 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #00868B;
+    border-bottom: 10px solid #00868B;
+}
+.stat{
+    border-bottom: 1px solid #00868B;
+	border-top: 1px solid #00868B;
+left:0px;
+top:4px;
+width:60%;
+color:white;
+font-size:10px;
+
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #00868B;
+    border-top: 10px solid #00868B;
 }
 
 .header-container,
@@ -111,7 +121,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #00868B;
+    background: ;
 }
 
 nav a:hover,
@@ -410,7 +420,7 @@ border-bottom:0px ;
 
 
 .main{
-margin-top:70px;
+margin-top:50px;
 }
 
 .header-container{
@@ -438,8 +448,7 @@ width:60%;
 .header-container nav li a{
 
 float:right;
-padding:15px;
-margin-right:10px;
-width:25%;
 
+width:25%;
 }
+
